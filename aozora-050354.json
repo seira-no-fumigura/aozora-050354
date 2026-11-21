@@ -1,0 +1,5734 @@
+{
+ "work": "鬼桃太郎",
+ "work_id": "aozora-050354",
+ "repo": "undefined/aozora-050354",
+ "author": "尾崎紅葉",
+ "yomi": "",
+ "category": "思想・評論",
+ "kind": "prose",
+ "description": {
+  "kind": "思想・評論",
+  "era": "",
+  "author": "尾崎紅葉",
+  "desc": "尾崎紅葉。『妖怪文藝〈巻之弐〉 響き交わす鬼』所収。"
+ },
+ "editions": [
+  {
+   "pid": "aozora",
+   "title": "妖怪文藝〈巻之弐〉　響き交わす鬼",
+   "editor": "",
+   "series": "",
+   "publisher": "小学館文庫、小学館",
+   "year": 2005,
+   "pages": "",
+   "url": "https://www.aozora.gr.jp/cards/000091/card50354.html",
+   "label": "青空文庫",
+   "note": "青空文庫のテキスト（入力: 田中哲郎、校正: みきた）による"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "本文はパブリックドメイン。大意と注は CC BY 4.0"
+ },
+ "poems": [],
+ "translation": null,
+ "base": "青空文庫のテキスト（入力: 田中哲郎、校正: みきた）を底本とした。青空文庫の底本は『妖怪文藝〈巻之弐〉　響き交わす鬼』（小学館文庫、小学館、2005）。行分けは青空文庫のまま。",
+ "gyo": true,
+ "blocks": [
+  {
+   "id": "aozora-050354-000001",
+   "pid": "",
+   "pages": [],
+   "no": 1,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "むかしむかし翁は山へ柴刈に、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "翁",
+     "r": "じじ"
+    },
+    {
+     "a": "柴刈",
+     "r": "しばかり"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000002",
+   "pid": "",
+   "pages": [],
+   "no": 2,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "媼は洗濯の河にて、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "媼",
+     "r": "ばば"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000003",
+   "pid": "",
+   "pages": [],
+   "no": 3,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "拾いし桃実の裏より",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "桃実",
+     "r": "もも"
+    },
+    {
+     "a": "裏",
+     "r": "うち"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000004",
+   "pid": "",
+   "pages": [],
+   "no": 4,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生れ出でたる桃太郎、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "出",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000005",
+   "pid": "",
+   "pages": [],
+   "no": 5,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "猿雉子犬を引率して",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "雉子",
+     "r": "きじ"
+    },
+    {
+     "a": "引率",
+     "r": "いんぞつ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000006",
+   "pid": "",
+   "pages": [],
+   "no": 6,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この鬼ヶ島に攻来り、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "攻来",
+     "r": "せめきた"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000007",
+   "pid": "",
+   "pages": [],
+   "no": 7,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "累世の珍宝を分捕なし、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "累世",
+     "r": "よよ"
+    },
+    {
+     "a": "珍宝",
+     "r": "たから"
+    },
+    {
+     "a": "分捕",
+     "r": "ぶんどり"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000008",
+   "pid": "",
+   "pages": [],
+   "no": 8,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "勝矜らせて",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "勝矜",
+     "r": "かちほこ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000009",
+   "pid": "",
+   "pages": [],
+   "no": 9,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "還せし事、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "還",
+     "r": "かえ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000010",
+   "pid": "",
+   "pages": [],
+   "no": 10,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この島末代までの",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000011",
+   "pid": "",
+   "pages": [],
+   "no": 11,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恥辱なり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000012",
+   "pid": "",
+   "pages": [],
+   "no": 12,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あわれ願わくは",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000013",
+   "pid": "",
+   "pages": [],
+   "no": 13,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "武勇勝れたる鬼のあれかし、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "勝",
+     "r": "すぐ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000014",
+   "pid": "",
+   "pages": [],
+   "no": 14,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "其力を藉てなりとも",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "其",
+     "r": "その"
+    },
+    {
+     "a": "藉",
+     "r": "かり"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000015",
+   "pid": "",
+   "pages": [],
+   "no": 15,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この遺恨霽さばやと、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "遺恨",
+     "r": "うらみ"
+    },
+    {
+     "a": "霽",
+     "r": "はら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000016",
+   "pid": "",
+   "pages": [],
+   "no": 16,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "時の王鬼島中に触を下し、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "王鬼",
+     "r": "おうおに"
+    },
+    {
+     "a": "触",
+     "r": "ふれ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000017",
+   "pid": "",
+   "pages": [],
+   "no": 17,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "誰にてもあれ日本を征伐し、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "誰",
+     "r": "たれ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000018",
+   "pid": "",
+   "pages": [],
+   "no": 18,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "桃太郎奴が若衆首と、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "奴",
+     "r": "め"
+    },
+    {
+     "a": "若衆首",
+     "r": "わかしゅくび"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000019",
+   "pid": "",
+   "pages": [],
+   "no": 19,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "分捕られたる珍宝を携え還らんものは、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "珍宝",
+     "r": "たから"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000020",
+   "pid": "",
+   "pages": [],
+   "no": 20,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "此島の王となすべしとありければ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "此",
+     "r": "この"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000021",
+   "pid": "",
+   "pages": [],
+   "no": 21,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "血気に逸る若鬼輩、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "逸",
+     "r": "はや"
+    },
+    {
+     "a": "輩",
+     "r": "ども"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000022",
+   "pid": "",
+   "pages": [],
+   "no": 22,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひこひこと額の角を蠢かし、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "蠢",
+     "r": "うごめ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000023",
+   "pid": "",
+   "pages": [],
+   "no": 23,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "我功名せんと",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000024",
+   "pid": "",
+   "pages": [],
+   "no": 24,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "想わざるはなけれども、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "想",
+     "r": "おも"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000025",
+   "pid": "",
+   "pages": [],
+   "no": 25,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いずれも桃太郎が技掚に懲り、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "技掚",
+     "r": "てなみ"
+    },
+    {
+     "a": "懲",
+     "r": "こ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000026",
+   "pid": "",
+   "pages": [],
+   "no": 26,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "我はと名乗出づるものも",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000027",
+   "pid": "",
+   "pages": [],
+   "no": 27,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あらざりけり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000028",
+   "pid": "",
+   "pages": [],
+   "no": 28,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "茲に阿修羅河の畔に世を忍びて、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "茲",
+     "r": "ここ"
+    },
+    {
+     "a": "阿修羅河",
+     "r": "あしゅらかわ"
+    },
+    {
+     "a": "畔",
+     "r": "ほとり"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000029",
+   "pid": "",
+   "pages": [],
+   "no": 29,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "佗しく住みなせる",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "佗",
+     "r": "わび"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000030",
+   "pid": "",
+   "pages": [],
+   "no": 30,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夫婦の鬼ありけり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000031",
+   "pid": "",
+   "pages": [],
+   "no": 31,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "もとは",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000032",
+   "pid": "",
+   "pages": [],
+   "no": 32,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鬼ヶ島の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000033",
+   "pid": "",
+   "pages": [],
+   "no": 33,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "城門の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000034",
+   "pid": "",
+   "pages": [],
+   "no": 34,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "衛司にて",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "衛司",
+     "r": "まもりつかさ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000035",
+   "pid": "",
+   "pages": [],
+   "no": 35,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ありけるが、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000036",
+   "pid": "",
+   "pages": [],
+   "no": 36,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "桃太郎攻入",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "攻入",
+     "r": "せめいり"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000037",
+   "pid": "",
+   "pages": [],
+   "no": 37,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "の砌敢なくも鉄の門扉を",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "砌",
+     "r": "みぎり"
+    },
+    {
+     "a": "敢",
+     "r": "あえ"
+    },
+    {
+     "a": "門扉",
+     "r": "とびら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000038",
+   "pid": "",
+   "pages": [],
+   "no": 38,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "打摧かれ、敵軍乱入に",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "打摧",
+     "r": "うちくだ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000039",
+   "pid": "",
+   "pages": [],
+   "no": 39,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "及びし条、其身の懈怠に因るものなりとて、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "条",
+     "r": "じょう"
+    },
+    {
+     "a": "懈怠",
+     "r": "おこたり"
+    },
+    {
+     "a": "因",
+     "r": "よ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000040",
+   "pid": "",
+   "pages": [],
+   "no": 40,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "斜ならず王鬼の勘気を蒙り、官を剥がれ世に疎れ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "斜",
+     "r": "ななめ"
+    },
+    {
+     "a": "蒙",
+     "r": "こうぶ"
+    },
+    {
+     "a": "剥",
+     "r": "は"
+    },
+    {
+     "a": "疎",
+     "r": "うとま"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000041",
+   "pid": "",
+   "pages": [],
+   "no": 41,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今は漁人となって余命を送るといえども、何日は身の罪を償うて再び",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "何日",
+     "r": "いつか"
+    },
+    {
+     "a": "償",
+     "r": "あがの"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000042",
+   "pid": "",
+   "pages": [],
+   "no": 42,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "世に出でんことを念懸け、子鬼の角の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "念懸",
+     "r": "こころが"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000043",
+   "pid": "",
+   "pages": [],
+   "no": 43,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "束の間も忘るる間ぞなかりける、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "束",
+     "r": "つか"
+    },
+    {
+     "a": "間",
+     "r": "ひま"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000044",
+   "pid": "",
+   "pages": [],
+   "no": 44,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さるほどに此触を聞く嬉しさ、茨木童子が",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "此触",
+     "r": "このふれ"
+    },
+    {
+     "a": "嬉",
+     "r": "うれ"
+    },
+    {
+     "a": "茨木童子",
+     "r": "いばらきどうじ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000045",
+   "pid": "",
+   "pages": [],
+   "no": 45,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "断落されし我片腕をも見たらん心地して、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "断落",
+     "r": "きりおと"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000046",
+   "pid": "",
+   "pages": [],
+   "no": 46,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "此時なりと心ばかりは逸れども、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000047",
+   "pid": "",
+   "pages": [],
+   "no": 47,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "嚮に城門の敗戦に桃太郎と亘合わせ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "嚮",
+     "r": "さき"
+    },
+    {
+     "a": "敗戦",
+     "r": "やぶれ"
+    },
+    {
+     "a": "亘合",
+     "r": "わたりあ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000048",
+   "pid": "",
+   "pages": [],
+   "no": 48,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "五十貫目の鉄棒もて、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "鉄棒",
+     "r": "てつのぼう"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000049",
+   "pid": "",
+   "pages": [],
+   "no": 49,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "右の角を根元より",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000050",
+   "pid": "",
+   "pages": [],
+   "no": 50,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "摧折れたる創の今に疼むこと頻りにして、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "摧折",
+     "r": "ひしお"
+    },
+    {
+     "a": "創",
+     "r": "きず"
+    },
+    {
+     "a": "疼",
+     "r": "いた"
+    },
+    {
+     "a": "頻",
+     "r": "しき"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000051",
+   "pid": "",
+   "pages": [],
+   "no": 51,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "不治の疾を得たりければ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "疾",
+     "r": "やまい"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000052",
+   "pid": "",
+   "pages": [],
+   "no": 52,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "合戦なんど思いも寄らず、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000053",
+   "pid": "",
+   "pages": [],
+   "no": 53,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かかる時子だにあらばと",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000054",
+   "pid": "",
+   "pages": [],
+   "no": 54,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "頻りに妻なる鬼を罵りぬ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "罵",
+     "r": "ののし"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000055",
+   "pid": "",
+   "pages": [],
+   "no": 55,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "されば妻の言いけるは、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000056",
+   "pid": "",
+   "pages": [],
+   "no": 56,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "伝聞く日本の桃太郎は、河に流れし桃より",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "伝聞",
+     "r": "つたえき"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000057",
+   "pid": "",
+   "pages": [],
+   "no": 57,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生れて武勇抜群の小児なり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "小児",
+     "r": "こせがれ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000058",
+   "pid": "",
+   "pages": [],
+   "no": 58,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "尋常なる鬼胎より出でなん鬼児にては、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "尋常",
+     "r": "なみなみ"
+    },
+    {
+     "a": "鬼胎",
+     "r": "おにのはら"
+    },
+    {
+     "a": "鬼児",
+     "r": "おにのこ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000059",
+   "pid": "",
+   "pages": [],
+   "no": 59,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "彼奴が敵手とならんこと覚束なし、妾夜叉神に一命を",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "彼奴",
+     "r": "かれめ"
+    },
+    {
+     "a": "敵手",
+     "r": "あいて"
+    },
+    {
+     "a": "覚束",
+     "r": "おぼつか"
+    },
+    {
+     "a": "妾",
+     "r": "わらわ"
+    },
+    {
+     "a": "夜叉神",
+     "r": "やしゃじん"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000060",
+   "pid": "",
+   "pages": [],
+   "no": 60,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "奉げて、桃太郎二倍なる武勇の子を祷るべしと、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "奉",
+     "r": "ささ"
+    },
+    {
+     "a": "二倍",
+     "r": "ふたつがけ"
+    },
+    {
+     "a": "祷",
+     "r": "いの"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000061",
+   "pid": "",
+   "pages": [],
+   "no": 61,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "阿修羅河の岸なる夜叉神社に参籠し、三七日の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "参籠",
+     "r": "さんろう"
+    },
+    {
+     "a": "三七日",
+     "r": "さんしちにち"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000062",
+   "pid": "",
+   "pages": [],
+   "no": 62,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜にして始めて霊夢を蒙り、その払暁水際に立出でて",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "払暁",
+     "r": "あかつき"
+    },
+    {
+     "a": "水際",
+     "r": "みぎわ"
+    },
+    {
+     "a": "立出",
+     "r": "たちい"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000063",
+   "pid": "",
+   "pages": [],
+   "no": 63,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "見れば、いと大きなる",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000064",
+   "pid": "",
+   "pages": [],
+   "no": 64,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "苦桃一顆浮波々々と浮来りぬ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "苦桃",
+     "r": "にがもも"
+    },
+    {
+     "a": "一顆",
+     "r": "ひとつ"
+    },
+    {
+     "a": "浮波々々",
+     "r": "ふわふわ"
+    },
+    {
+     "a": "浮来",
+     "r": "うききた"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000065",
+   "pid": "",
+   "pages": [],
+   "no": 65,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "扨はと嬉しく抱還れば、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "扨",
+     "r": "さて"
+    },
+    {
+     "a": "抱還",
+     "r": "いだきかえ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000066",
+   "pid": "",
+   "pages": [],
+   "no": 66,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "待構えたる夫の喜悦たとうる方なし、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "待構",
+     "r": "まちかま"
+    },
+    {
+     "a": "喜悦",
+     "r": "よろこび"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000067",
+   "pid": "",
+   "pages": [],
+   "no": 67,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "割きて見れば果せるかな、核おのずから飛で",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "割",
+     "r": "さ"
+    },
+    {
+     "a": "核",
+     "r": "さね"
+    },
+    {
+     "a": "飛",
+     "r": "とん"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000068",
+   "pid": "",
+   "pages": [],
+   "no": 68,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "坐上に躍ると見えしが、忽焉其長一丈五尺の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "坐上",
+     "r": "ざじょう"
+    },
+    {
+     "a": "忽焉",
+     "r": "たちまち"
+    },
+    {
+     "a": "其長",
+     "r": "そのたけ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000069",
+   "pid": "",
+   "pages": [],
+   "no": 69,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "青鬼と変じ、紅皿のごとき口を開き、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "紅皿",
+     "r": "べにさら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000070",
+   "pid": "",
+   "pages": [],
+   "no": 70,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "爛々たる火焔を吐て矗と立たる",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "爛々",
+     "r": "らんらん"
+    },
+    {
+     "a": "火焔",
+     "r": "かえん"
+    },
+    {
+     "a": "吐",
+     "r": "はき"
+    },
+    {
+     "a": "矗",
+     "r": "すっく"
+    },
+    {
+     "a": "立",
+     "r": "たっ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000071",
+   "pid": "",
+   "pages": [],
+   "no": 71,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "其風情、鬼の眼にさえ恐ろしくも、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "眼",
+     "r": "め"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000072",
+   "pid": "",
+   "pages": [],
+   "no": 72,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "また物凄くぞ見えたりける、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "物凄",
+     "r": "ものすご"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000073",
+   "pid": "",
+   "pages": [],
+   "no": 73,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "苦桃の裏より生まれたればとて",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "裏",
+     "r": "うち"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000074",
+   "pid": "",
+   "pages": [],
+   "no": 74,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "苦桃太郎と名乗らせぬ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "苦桃太郎",
+     "r": "にがももたろう"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000075",
+   "pid": "",
+   "pages": [],
+   "no": 75,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "扨夫婦所志よしを語りければ",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "扨",
+     "r": "さて"
+    },
+    {
+     "a": "所志",
+     "r": "おもう"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000076",
+   "pid": "",
+   "pages": [],
+   "no": 76,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "苦桃大いに喜び、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000077",
+   "pid": "",
+   "pages": [],
+   "no": 77,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "易き事かな、我一跨に日本へ推渡り、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "易",
+     "r": "やす"
+    },
+    {
+     "a": "一跨",
+     "r": "ひとまたぎ"
+    },
+    {
+     "a": "推渡",
+     "r": "おしわた"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000078",
+   "pid": "",
+   "pages": [],
+   "no": 78,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "三指にて桃太がそっ首引抜き、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "三指",
+     "r": "みつゆび"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000079",
+   "pid": "",
+   "pages": [],
+   "no": 79,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "其国の珍宝の有らん限り引攫うて還るべし、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "珍宝",
+     "r": "たから"
+    },
+    {
+     "a": "引攫",
+     "r": "ひきさろ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000080",
+   "pid": "",
+   "pages": [],
+   "no": 80,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "これより出陣出陣と勇み立てば、夫婦のいうよう、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000081",
+   "pid": "",
+   "pages": [],
+   "no": 81,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "此条王鬼に届出でずして我儘に出立せば、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "此条",
+     "r": "このじょう"
+    },
+    {
+     "a": "届出",
+     "r": "とどけい"
+    },
+    {
+     "a": "我儘",
+     "r": "わがまま"
+    },
+    {
+     "a": "出立",
+     "r": "しゅったつ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000082",
+   "pid": "",
+   "pages": [],
+   "no": 82,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "或いは功も功とならずして、却て咎のあらんも",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "或",
+     "r": "ある"
+    },
+    {
+     "a": "却",
+     "r": "かえっ"
+    },
+    {
+     "a": "咎",
+     "r": "とがめ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000083",
+   "pid": "",
+   "pages": [],
+   "no": 83,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "測り難し、夫婦は罪を負う身の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "夫婦",
+     "r": "われら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000084",
+   "pid": "",
+   "pages": [],
+   "no": 84,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "拝謁愜わざればとて、苦桃太郎単身して",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "拝謁",
+     "r": "おめみえ"
+    },
+    {
+     "a": "愜",
+     "r": "かな"
+    },
+    {
+     "a": "単身",
+     "r": "ひとり"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000085",
+   "pid": "",
+   "pages": [],
+   "no": 85,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "王城に到らしめ、桃太郎征伐の義を",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000086",
+   "pid": "",
+   "pages": [],
+   "no": 86,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "言上しければ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "言上",
+     "r": "ごんじょう"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000087",
+   "pid": "",
+   "pages": [],
+   "no": 87,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "王鬼火焔を吐きて悦ぶこと限りなく、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "火焔",
+     "r": "ほのお"
+    },
+    {
+     "a": "悦",
+     "r": "よろこ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000088",
+   "pid": "",
+   "pages": [],
+   "no": 88,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "八角に削成して二百八十八箇の銀星打たる",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "削成",
+     "r": "けずりな"
+    },
+    {
+     "a": "箇",
+     "r": "か"
+    },
+    {
+     "a": "銀星",
+     "r": "ぎんのほし"
+    },
+    {
+     "a": "打",
+     "r": "うっ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000089",
+   "pid": "",
+   "pages": [],
+   "no": 89,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鉄棒を賜い、爾之を以て桃奴が腰骨微塵に砕けよと",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "鉄棒",
+     "r": "てつのぼう"
+    },
+    {
+     "a": "賜",
+     "r": "たま"
+    },
+    {
+     "a": "爾",
+     "r": "なんじ"
+    },
+    {
+     "a": "之",
+     "r": "これ"
+    },
+    {
+     "a": "以",
+     "r": "もっ"
+    },
+    {
+     "a": "桃奴",
+     "r": "ももめ"
+    },
+    {
+     "a": "微塵",
+     "r": "みじん"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000090",
+   "pid": "",
+   "pages": [],
+   "no": 90,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ありければ、苦桃太郎冷笑い、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "冷笑",
+     "r": "あざわら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000091",
+   "pid": "",
+   "pages": [],
+   "no": 91,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "桃太郎風情の小童十人二十人、虱を拈るよりなお易きに、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "小童",
+     "r": "こわっぱ"
+    },
+    {
+     "a": "虱",
+     "r": "しらみ"
+    },
+    {
+     "a": "拈",
+     "r": "ひね"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000092",
+   "pid": "",
+   "pages": [],
+   "no": 92,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "安ぞ武器などの入り候べき、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "安",
+     "r": "なん"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000093",
+   "pid": "",
+   "pages": [],
+   "no": 93,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "仮初にもかかる物を賜う事",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "仮初",
+     "r": "かりそめ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000094",
+   "pid": "",
+   "pages": [],
+   "no": 94,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "頗る某が武勇を",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "頗",
+     "r": "すこぶ"
+    },
+    {
+     "a": "某",
+     "r": "それがし"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000095",
+   "pid": "",
+   "pages": [],
+   "no": 95,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "気遣いたまうに似たり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000096",
+   "pid": "",
+   "pages": [],
+   "no": 96,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "無礼を御免し候え、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "御免",
+     "r": "おんゆる"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000097",
+   "pid": "",
+   "pages": [],
+   "no": 97,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "これ御覧ぜよ方々と、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000098",
+   "pid": "",
+   "pages": [],
+   "no": 98,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "側なる鉄の円柱を小指もてゆらゆらと",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "側",
+     "r": "そば"
+    },
+    {
+     "a": "円柱",
+     "r": "まるばしら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000099",
+   "pid": "",
+   "pages": [],
+   "no": 99,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "盪揺かせば、満座斉しく色を失い、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "盪揺",
+     "r": "おしうご"
+    },
+    {
+     "a": "斉",
+     "r": "ひと"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000100",
+   "pid": "",
+   "pages": [],
+   "no": 100,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "やれ苦桃技掚は見えたり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "技掚",
+     "r": "てなみ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000101",
+   "pid": "",
+   "pages": [],
+   "no": 101,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "止めよ止めよと震慄きけり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "止",
+     "r": "や"
+    },
+    {
+     "a": "震慄",
+     "r": "おのの"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000102",
+   "pid": "",
+   "pages": [],
+   "no": 102,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "」の図（fig50354_07.png、横828×縦608）入る］",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000103",
+   "pid": "",
+   "pages": [],
+   "no": 103,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "王鬼近く苦桃を",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000104",
+   "pid": "",
+   "pages": [],
+   "no": 104,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "招きて、かかる爾が",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "爾",
+     "r": "なんじ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000105",
+   "pid": "",
+   "pages": [],
+   "no": 105,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "武勇を以てせば、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000106",
+   "pid": "",
+   "pages": [],
+   "no": 106,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "桃太郎を",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000107",
+   "pid": "",
+   "pages": [],
+   "no": 107,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "滅ぼさん事",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000108",
+   "pid": "",
+   "pages": [],
+   "no": 108,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "疑いなし、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000109",
+   "pid": "",
+   "pages": [],
+   "no": 109,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "別に取らす",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000110",
+   "pid": "",
+   "pages": [],
+   "no": 110,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "べきものありと、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000111",
+   "pid": "",
+   "pages": [],
+   "no": 111,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "自家穿ぎたりし",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "自家",
+     "r": "みずから"
+    },
+    {
+     "a": "穿",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000112",
+   "pid": "",
+   "pages": [],
+   "no": 112,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "白虎の生皮もて",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "白虎",
+     "r": "びゃくこ"
+    },
+    {
+     "a": "生皮",
+     "r": "いきがわ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000113",
+   "pid": "",
+   "pages": [],
+   "no": 113,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "造れる褌を解きて投出し",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "褌",
+     "r": "はかま"
+    },
+    {
+     "a": "投出",
+     "r": "なげだ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000114",
+   "pid": "",
+   "pages": [],
+   "no": 114,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たまえば取て戴き、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "取",
+     "r": "とっ"
+    },
+    {
+     "a": "戴",
+     "r": "いただ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000115",
+   "pid": "",
+   "pages": [],
+   "no": 115,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "双の角に引懸け、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "双",
+     "r": "そう"
+    },
+    {
+     "a": "引懸",
+     "r": "ひきか"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000116",
+   "pid": "",
+   "pages": [],
+   "no": 116,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "手振足拍子可笑く",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "手振",
+     "r": "てふり"
+    },
+    {
+     "a": "可笑",
+     "r": "おかし"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000117",
+   "pid": "",
+   "pages": [],
+   "no": 117,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "外道舞というを舞い、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "外道舞",
+     "r": "げどうまい"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000118",
+   "pid": "",
+   "pages": [],
+   "no": 118,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "喜び勇んで退出けり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "退出",
+     "r": "まかんで"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000119",
+   "pid": "",
+   "pages": [],
+   "no": 119,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "明日ともなりぬれば",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "明日",
+     "r": "あした"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000120",
+   "pid": "",
+   "pages": [],
+   "no": 120,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "王城より使者向いて、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000121",
+   "pid": "",
+   "pages": [],
+   "no": 121,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鉄線の嚢に",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "鉄線",
+     "r": "はりがね"
+    },
+    {
+     "a": "嚢",
+     "r": "ふくろ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000122",
+   "pid": "",
+   "pages": [],
+   "no": 122,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人間の髑髏の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "髑髏",
+     "r": "されこうべ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000123",
+   "pid": "",
+   "pages": [],
+   "no": 123,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "附焼十箇を",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "附焼",
+     "r": "つけやき"
+    },
+    {
+     "a": "十箇",
+     "r": "とお"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000124",
+   "pid": "",
+   "pages": [],
+   "no": 124,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "盛りて、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000125",
+   "pid": "",
+   "pages": [],
+   "no": 125,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かの桃太郎が",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000126",
+   "pid": "",
+   "pages": [],
+   "no": 126,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "黍団子に擬え、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "黍団子",
+     "r": "きびだんご"
+    },
+    {
+     "a": "擬",
+     "r": "なぞら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000127",
+   "pid": "",
+   "pages": [],
+   "no": 127,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "之を兵粮にとて",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "兵粮",
+     "r": "ひょうろう"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000128",
+   "pid": "",
+   "pages": [],
+   "no": 128,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "賜わりぬ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000129",
+   "pid": "",
+   "pages": [],
+   "no": 129,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "徂々て",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "徂々",
+     "r": "ゆきゆき"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000130",
+   "pid": "",
+   "pages": [],
+   "no": 130,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鬼ヶ島の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000131",
+   "pid": "",
+   "pages": [],
+   "no": 131,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "堺に",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "堺",
+     "r": "さかい"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000132",
+   "pid": "",
+   "pages": [],
+   "no": 132,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "来りたる頃、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000133",
+   "pid": "",
+   "pages": [],
+   "no": 133,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "魔風遽に颯々と吹荒み、瀑のごとくに",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "遽",
+     "r": "にわか"
+    },
+    {
+     "a": "颯々",
+     "r": "さつさつ"
+    },
+    {
+     "a": "吹荒",
+     "r": "ふきすさ"
+    },
+    {
+     "a": "瀑",
+     "r": "たき"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000134",
+   "pid": "",
+   "pages": [],
+   "no": 134,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "暴雨沃ぎて天地鳴動し、坤軸も折るるかと",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "沃",
+     "r": "そそ"
+    },
+    {
+     "a": "坤軸",
+     "r": "こんじく"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000135",
+   "pid": "",
+   "pages": [],
+   "no": 135,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "想うばかりなり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000136",
+   "pid": "",
+   "pages": [],
+   "no": 136,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あら心地好き光景やと、少時立留って",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "好",
+     "r": "よ"
+    },
+    {
+     "a": "光景",
+     "r": "ありさま"
+    },
+    {
+     "a": "少時",
+     "r": "しばし"
+    },
+    {
+     "a": "立留",
+     "r": "たちとどま"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000137",
+   "pid": "",
+   "pages": [],
+   "no": 137,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "四方を屹と見てあれば、魔王岳の絶頂に",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "屹",
+     "r": "きっ"
+    },
+    {
+     "a": "魔王岳",
+     "r": "まおうがたけ"
+    },
+    {
+     "a": "絶頂",
+     "r": "ぜっちょう"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000138",
+   "pid": "",
+   "pages": [],
+   "no": 138,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "当りて、電光の閃く裏に金色の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "閃",
+     "r": "ひらめ"
+    },
+    {
+     "a": "裏",
+     "r": "うち"
+    },
+    {
+     "a": "金色",
+     "r": "こんじき"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000139",
+   "pid": "",
+   "pages": [],
+   "no": 139,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "毒竜現われ、此方を目懸けて",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "毒竜",
+     "r": "どくりょう"
+    },
+    {
+     "a": "此方",
+     "r": "こなた"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000140",
+   "pid": "",
+   "pages": [],
+   "no": 140,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "箭を射るごとく飛来る、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "箭",
+     "r": "や"
+    },
+    {
+     "a": "飛来",
+     "r": "とびきた"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000141",
+   "pid": "",
+   "pages": [],
+   "no": 141,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "やあ小賢しき長虫の通力立、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "小賢",
+     "r": "こさか"
+    },
+    {
+     "a": "長虫",
+     "r": "ながむし"
+    },
+    {
+     "a": "通力立",
+     "r": "つうりきだて"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000142",
+   "pid": "",
+   "pages": [],
+   "no": 142,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寄らば目に物見せんと",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000143",
+   "pid": "",
+   "pages": [],
+   "no": 143,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "力足蹈鳴らして身構うる間に、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "蹈鳴",
+     "r": "ふみな"
+    },
+    {
+     "a": "間",
+     "r": "ま"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000144",
+   "pid": "",
+   "pages": [],
+   "no": 144,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かの毒竜舞下りて",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "舞下",
+     "r": "まいさが"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000145",
+   "pid": "",
+   "pages": [],
+   "no": 145,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "太郎が前に蜷屈くこと十三巻、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "蜷",
+     "r": "とぐら"
+    },
+    {
+     "a": "屈",
+     "r": "ま"
+    },
+    {
+     "a": "巻",
+     "r": "まき"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000146",
+   "pid": "",
+   "pages": [],
+   "no": 146,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "舌を吐き首を俛れていうようは、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "俛",
+     "r": "た"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000147",
+   "pid": "",
+   "pages": [],
+   "no": 147,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "某は魔王岳の絶頂なる湖水に",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "絶頂",
+     "r": "いただき"
+    },
+    {
+     "a": "湖水",
+     "r": "みずうみ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000148",
+   "pid": "",
+   "pages": [],
+   "no": 148,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歳久しく棲める竜王なるが、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "歳",
+     "r": "とし"
+    },
+    {
+     "a": "棲",
+     "r": "す"
+    },
+    {
+     "a": "竜王",
+     "r": "りょうおう"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000149",
+   "pid": "",
+   "pages": [],
+   "no": 149,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日本の地に罷在る眷族の蛇類、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "罷在",
+     "r": "まかりあ"
+    },
+    {
+     "a": "眷族",
+     "r": "けんぞく"
+    },
+    {
+     "a": "蛇類",
+     "r": "へびども"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000150",
+   "pid": "",
+   "pages": [],
+   "no": 150,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かの桃太郎が家臣なる雉子の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000151",
+   "pid": "",
+   "pages": [],
+   "no": 151,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一類の為に、食まるること",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "為",
+     "r": "ため"
+    },
+    {
+     "a": "食",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000152",
+   "pid": "",
+   "pages": [],
+   "no": 152,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "年々その数を知らず、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000153",
+   "pid": "",
+   "pages": [],
+   "no": 153,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いかにもして此遺恨報えさばやと",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "此遺恨",
+     "r": "このうらみ"
+    },
+    {
+     "a": "報",
+     "r": "か"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000154",
+   "pid": "",
+   "pages": [],
+   "no": 154,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "思う事久しけれど、孤独の力及び難く、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "孤独",
+     "r": "ひとり"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000155",
+   "pid": "",
+   "pages": [],
+   "no": 155,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "無念を呑で瞋恚の炎燄を吐く折から、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "呑",
+     "r": "のん"
+    },
+    {
+     "a": "瞋恚",
+     "r": "しんい"
+    },
+    {
+     "a": "炎燄",
+     "r": "ほむら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000156",
+   "pid": "",
+   "pages": [],
+   "no": 156,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "将軍此度桃太郎征伐のよしを聞及び、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000157",
+   "pid": "",
+   "pages": [],
+   "no": 157,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "願わくは御手に随従して微力を竭し、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "御手",
+     "r": "おんて"
+    },
+    {
+     "a": "竭",
+     "r": "つく"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000158",
+   "pid": "",
+   "pages": [],
+   "no": 158,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "御威勢を以て一族の積る恨みを",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000159",
+   "pid": "",
+   "pages": [],
+   "no": 159,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "散ぜんとて、これまで御出迎い",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "御",
+     "r": "おん"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000160",
+   "pid": "",
+   "pages": [],
+   "no": 160,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "仕つりぬ、あわれ御従軍御許あらば、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "仕",
+     "r": "つかま"
+    },
+    {
+     "a": "御従軍",
+     "r": "おんとも"
+    },
+    {
+     "a": "御許",
+     "r": "おんゆるし"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000161",
+   "pid": "",
+   "pages": [],
+   "no": 161,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "身の面目之に過じとありければ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "之",
+     "r": "これ"
+    },
+    {
+     "a": "過",
+     "r": "すぎ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000162",
+   "pid": "",
+   "pages": [],
+   "no": 162,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "苦桃太郎喜悦浅からず、腰なる髑髏",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "髑髏",
+     "r": "どくろ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000163",
+   "pid": "",
+   "pages": [],
+   "no": 163,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一個取らせて主従の契約を結びぬ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "一個",
+     "r": "ひとつ"
+    },
+    {
+     "a": "主従",
+     "r": "しゅうじゅう"
+    },
+    {
+     "a": "契約",
+     "r": "ちぎり"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000164",
+   "pid": "",
+   "pages": [],
+   "no": 164,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "爾時毒竜のいいけるは、徃時桃太郎は",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "爾時",
+     "r": "そのとき"
+    },
+    {
+     "a": "徃時",
+     "r": "いんじ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000165",
+   "pid": "",
+   "pages": [],
+   "no": 165,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雉子猿犬の三郎党を従がえて、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "三郎党",
+     "r": "さんろうどう"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000166",
+   "pid": "",
+   "pages": [],
+   "no": 166,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大勝利を得し例に傚い、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "例",
+     "r": "ためし"
+    },
+    {
+     "a": "傚",
+     "r": "なら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000167",
+   "pid": "",
+   "pages": [],
+   "no": 167,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "将軍も亦好郎党を召たまわずや、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "亦",
+     "r": "また"
+    },
+    {
+     "a": "好",
+     "r": "よき"
+    },
+    {
+     "a": "召",
+     "r": "めし"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000168",
+   "pid": "",
+   "pages": [],
+   "no": 168,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "某が無二の交を結べる",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "某",
+     "r": "それがし"
+    },
+    {
+     "a": "交",
+     "r": "まじわり"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000169",
+   "pid": "",
+   "pages": [],
+   "no": 169,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "二頭の勇者あり、もし",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "二頭",
+     "r": "にひき"
+    },
+    {
+     "a": "勇者",
+     "r": "つわもの"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000170",
+   "pid": "",
+   "pages": [],
+   "no": 170,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "御意あらば立所に召寄すべし",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "御意",
+     "r": "ぎょい"
+    },
+    {
+     "a": "立所",
+     "r": "たちどころ"
+    },
+    {
+     "a": "召寄",
+     "r": "めしよ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000171",
+   "pid": "",
+   "pages": [],
+   "no": 171,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "との推挙に、千羊の皮は",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "千羊",
+     "r": "せんよう"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000172",
+   "pid": "",
+   "pages": [],
+   "no": 172,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一狐腋に如かずの本文、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "一狐腋",
+     "r": "いっこのえき"
+    },
+    {
+     "a": "如",
+     "r": "し"
+    },
+    {
+     "a": "本文",
+     "r": "ほんもん"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000173",
+   "pid": "",
+   "pages": [],
+   "no": 173,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なまじいなる",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000174",
+   "pid": "",
+   "pages": [],
+   "no": 174,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "輩は却て足手纏なれど、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "輩",
+     "r": "やから"
+    },
+    {
+     "a": "却",
+     "r": "かえっ"
+    },
+    {
+     "a": "足手纏",
+     "r": "あしでまとい"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000175",
+   "pid": "",
+   "pages": [],
+   "no": 175,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "御身が信じて一方の大将とも",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "御身",
+     "r": "おんみ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000176",
+   "pid": "",
+   "pages": [],
+   "no": 176,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なすべき器量ありとせば、早々",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000177",
+   "pid": "",
+   "pages": [],
+   "no": 177,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その者を",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000178",
+   "pid": "",
+   "pages": [],
+   "no": 178,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "召寄せた",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000179",
+   "pid": "",
+   "pages": [],
+   "no": 179,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "まえという、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000180",
+   "pid": "",
+   "pages": [],
+   "no": 180,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恐多き申分には候えども、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "恐",
+     "r": "おそれ"
+    },
+    {
+     "a": "多",
+     "r": "おお"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000181",
+   "pid": "",
+   "pages": [],
+   "no": 181,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "類は友を以て聚まるの喩、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "聚",
+     "r": "あつ"
+    },
+    {
+     "a": "喩",
+     "r": "たとえ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000182",
+   "pid": "",
+   "pages": [],
+   "no": 182,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "某不肖といえども",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "某",
+     "r": "それがし"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000183",
+   "pid": "",
+   "pages": [],
+   "no": 183,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "魔王岳の竜王なり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000184",
+   "pid": "",
+   "pages": [],
+   "no": 184,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "凡俗なる狐狸の輩を友と",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "狐狸",
+     "r": "こり"
+    },
+    {
+     "a": "輩",
+     "r": "ともがら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000185",
+   "pid": "",
+   "pages": [],
+   "no": 185,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "せんや、まず召寄せて",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000186",
+   "pid": "",
+   "pages": [],
+   "no": 186,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "見参に入れんと、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "見参",
+     "r": "げんざん"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000187",
+   "pid": "",
+   "pages": [],
+   "no": 187,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "二振三振尾を掉れば",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "二振",
+     "r": "ふたふり"
+    },
+    {
+     "a": "三振",
+     "r": "みふり"
+    },
+    {
+     "a": "掉",
+     "r": "ふ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000188",
+   "pid": "",
+   "pages": [],
+   "no": 188,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "響宛然金鈴のごとし、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "響",
+     "r": "ひびき"
+    },
+    {
+     "a": "宛然",
+     "r": "さながら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000189",
+   "pid": "",
+   "pages": [],
+   "no": 189,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "之を合図に北方より忽然として",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "北方",
+     "r": "ほくほう"
+    },
+    {
+     "a": "忽然",
+     "r": "こつぜん"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000190",
+   "pid": "",
+   "pages": [],
+   "no": 190,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "白毛朱面の大狒飛来り、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "白毛",
+     "r": "びゃくもう"
+    },
+    {
+     "a": "朱面",
+     "r": "しゅめん"
+    },
+    {
+     "a": "大狒",
+     "r": "おおひひ"
+    },
+    {
+     "a": "飛来",
+     "r": "とびきた"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000191",
+   "pid": "",
+   "pages": [],
+   "no": 191,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "西方よりは牛かと見紛うばかりの",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "西方",
+     "r": "さいほう"
+    },
+    {
+     "a": "見紛",
+     "r": "みまご"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000192",
+   "pid": "",
+   "pages": [],
+   "no": 192,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "狼躍出でて、一斉に太郎が前に額けば、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "狼",
+     "r": "おおかみ"
+    },
+    {
+     "a": "躍出",
+     "r": "おどりい"
+    },
+    {
+     "a": "額",
+     "r": "ぬかず"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000193",
+   "pid": "",
+   "pages": [],
+   "no": 193,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "苦桃岩角に腰打懸け、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "打懸",
+     "r": "うちか"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000194",
+   "pid": "",
+   "pages": [],
+   "no": 194,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鴆の羽扇にて麾ねき、実に頼もしき",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "鴆",
+     "r": "ちん"
+    },
+    {
+     "a": "羽扇",
+     "r": "はおうぎ"
+    },
+    {
+     "a": "麾",
+     "r": "さしま"
+    },
+    {
+     "a": "実",
+     "r": "げ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000195",
+   "pid": "",
+   "pages": [],
+   "no": 195,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "器量骨格、狒は猿の首領にして",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "骨格",
+     "r": "こつがら"
+    },
+    {
+     "a": "首領",
+     "r": "かしら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000196",
+   "pid": "",
+   "pages": [],
+   "no": 196,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "狼は犬の強敵たり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "強敵",
+     "r": "ごうてき"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000197",
+   "pid": "",
+   "pages": [],
+   "no": 197,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "之に加うるに毒竜あれば、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000198",
+   "pid": "",
+   "pages": [],
+   "no": 198,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "桃太郎を一戦に撃破らん事、鉄槌を以て",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "撃破",
+     "r": "うちやぶ"
+    },
+    {
+     "a": "鉄槌",
+     "r": "てっつい"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000199",
+   "pid": "",
+   "pages": [],
+   "no": 199,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "土器を摧くがごとし、いざ引出物取らせんと、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "土器",
+     "r": "かわらけ"
+    },
+    {
+     "a": "摧",
+     "r": "くだ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000200",
+   "pid": "",
+   "pages": [],
+   "no": 200,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "また二箇の髑髏を与え、いでや出陣と立上れば、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "二箇",
+     "r": "ふたつ"
+    },
+    {
+     "a": "髑髏",
+     "r": "どくろ"
+    },
+    {
+     "a": "立上",
+     "r": "たちあが"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000201",
+   "pid": "",
+   "pages": [],
+   "no": 201,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "毒竜再び策を献じていわく、某に飛行自在の術の候、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "飛行",
+     "r": "ひぎょう"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000202",
+   "pid": "",
+   "pages": [],
+   "no": 202,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "瞬時にして日本国に到るべしと、虚空に向って呼吸を吐けば、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "瞬時",
+     "r": "またたくま"
+    },
+    {
+     "a": "呼吸",
+     "r": "いき"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000203",
+   "pid": "",
+   "pages": [],
+   "no": 203,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "不思議や黄雲遽然蒸して眼前に聚りぬ、主従之に打乗り、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "遽然",
+     "r": "にわかに"
+    },
+    {
+     "a": "聚",
+     "r": "あつま"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000204",
+   "pid": "",
+   "pages": [],
+   "no": 204,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "宙を飛ぶこと西遊記の絵のごとく、一昼夜にして眼界果しなき",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "果",
+     "r": "はて"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000205",
+   "pid": "",
+   "pages": [],
+   "no": 205,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大洋の上にぞ来りける、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "大洋",
+     "r": "おおうなばら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000206",
+   "pid": "",
+   "pages": [],
+   "no": 206,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "苦桃太郎不審を起し、我等神通力を以てかく飛行しながら、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000207",
+   "pid": "",
+   "pages": [],
+   "no": 207,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "未だ日本の地に着かざる理なし、毒竜爰は鬼ヶ島を去ること若干里ぞ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "理",
+     "r": "り"
+    },
+    {
+     "a": "爰",
+     "r": "ここ"
+    },
+    {
+     "a": "若干里",
+     "r": "いくばく"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000208",
+   "pid": "",
+   "pages": [],
+   "no": 208,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さん候、大約十二万三千四百",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "大約",
+     "r": "おおよそ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000209",
+   "pid": "",
+   "pages": [],
+   "no": 209,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "五十六億七千八百九十里、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000210",
+   "pid": "",
+   "pages": [],
+   "no": 210,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おっと其は行過ぎたり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "其",
+     "r": "それ"
+    },
+    {
+     "a": "行過",
+     "r": "ゆきす"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000211",
+   "pid": "",
+   "pages": [],
+   "no": 211,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "戻せ戻せと逆飛雲の法を",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000212",
+   "pid": "",
+   "pages": [],
+   "no": 212,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "行なわせて、無二無三に退るほどに",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "退",
+     "r": "もど"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000213",
+   "pid": "",
+   "pages": [],
+   "no": 213,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "還るほどに、また戻過ぐること",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "戻過",
+     "r": "もどりす"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000214",
+   "pid": "",
+   "pages": [],
+   "no": 214,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "九十八万七千六百五十四億",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000215",
+   "pid": "",
+   "pages": [],
+   "no": 215,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "三万二千と一百里、これではならぬと",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000216",
+   "pid": "",
+   "pages": [],
+   "no": 216,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "また出直して、行けば行過ぎ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000217",
+   "pid": "",
+   "pages": [],
+   "no": 217,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "戻れば戻過ぎ、行つ戻りつ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000218",
+   "pid": "",
+   "pages": [],
+   "no": 218,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "戻りつ行きつ、左へ翔り右へ走り、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "翔",
+     "r": "かけ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000219",
+   "pid": "",
+   "pages": [],
+   "no": 219,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "四面八角縦横無尽に飛廻るほどに、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "飛廻",
+     "r": "とびまわ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000220",
+   "pid": "",
+   "pages": [],
+   "no": 220,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "流石の毒竜の魔力も限あれば次第に疲れ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "流石",
+     "r": "さすが"
+    },
+    {
+     "a": "魔力",
+     "r": "まりき"
+    },
+    {
+     "a": "限",
+     "r": "かぎり"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000221",
+   "pid": "",
+   "pages": [],
+   "no": 221,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雲は弱りて薄れ行き、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000222",
+   "pid": "",
+   "pages": [],
+   "no": 222,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今は古綿のごとく此処も寸断れ彼所も寸断れて、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "此処",
+     "r": "ここ"
+    },
+    {
+     "a": "寸断",
+     "r": "ちぎ"
+    },
+    {
+     "a": "彼所",
+     "r": "かしこ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000223",
+   "pid": "",
+   "pages": [],
+   "no": 223,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "放下たる空隙より践外して、狒狼は敢なくも",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "放下",
+     "r": "ほけ"
+    },
+    {
+     "a": "空隙",
+     "r": "あな"
+    },
+    {
+     "a": "践外",
+     "r": "ふみはず"
+    },
+    {
+     "a": "狒",
+     "r": "ひひ"
+    },
+    {
+     "a": "狼",
+     "r": "おおかみ"
+    },
+    {
+     "a": "敢",
+     "r": "あえ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000224",
+   "pid": "",
+   "pages": [],
+   "no": 224,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "泡立海に落入りて、鰐魚の餌食となりけらし。",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "泡立",
+     "r": "あわだつ"
+    },
+    {
+     "a": "鰐魚",
+     "r": "わに"
+    },
+    {
+     "a": "餌食",
+     "r": "えじき"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000225",
+   "pid": "",
+   "pages": [],
+   "no": 225,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "苦桃太郎之を見るより奮然として怒を為し、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "怒",
+     "r": "いかり"
+    },
+    {
+     "a": "為",
+     "r": "な"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000226",
+   "pid": "",
+   "pages": [],
+   "no": 226,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おのれ毒竜、爾が魯鈍の故を以て、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "爾",
+     "r": "なんじ"
+    },
+    {
+     "a": "魯鈍",
+     "r": "うつけ"
+    },
+    {
+     "a": "故",
+     "r": "ゆえ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000227",
+   "pid": "",
+   "pages": [],
+   "no": 227,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "股肱の臣を喪いたるぞ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "股肱",
+     "r": "ここう"
+    },
+    {
+     "a": "喪",
+     "r": "うしな"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000228",
+   "pid": "",
+   "pages": [],
+   "no": 228,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "軍陣の門出に",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "門出",
+     "r": "かどで"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000229",
+   "pid": "",
+   "pages": [],
+   "no": 229,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "前徴悪し、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "前徴",
+     "r": "さいさき"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000230",
+   "pid": "",
+   "pages": [],
+   "no": 230,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "憎くき奴と",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "憎",
+     "r": "にっ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000231",
+   "pid": "",
+   "pages": [],
+   "no": 231,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "拳を固めて、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "拳",
+     "r": "こぶし"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000232",
+   "pid": "",
+   "pages": [],
+   "no": 232,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "毒竜の真額",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "真額",
+     "r": "まっこう"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000233",
+   "pid": "",
+   "pages": [],
+   "no": 233,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "砕けよと",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000234",
+   "pid": "",
+   "pages": [],
+   "no": 234,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "乱打に撃ければ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "乱打",
+     "r": "つづけうち"
+    },
+    {
+     "a": "撃",
+     "r": "うち"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000235",
+   "pid": "",
+   "pages": [],
+   "no": 235,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "もとより暴気の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "暴気",
+     "r": "あらき"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000236",
+   "pid": "",
+   "pages": [],
+   "no": 236,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "毒竜は発憤の眼に",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "発憤",
+     "r": "いかり"
+    },
+    {
+     "a": "眼",
+     "r": "まなこ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000237",
+   "pid": "",
+   "pages": [],
+   "no": 237,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朱を濺ぎ、金の鱗を",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "濺",
+     "r": "そそ"
+    },
+    {
+     "a": "鱗",
+     "r": "うろこ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000238",
+   "pid": "",
+   "pages": [],
+   "no": 238,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "逆てたるは木葉に風の吹ごとし、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "逆",
+     "r": "さかだ"
+    },
+    {
+     "a": "木葉",
+     "r": "このは"
+    },
+    {
+     "a": "吹",
+     "r": "ふく"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000239",
+   "pid": "",
+   "pages": [],
+   "no": 239,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "やあ小憎きおのれが大将面、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "面",
+     "r": "づら"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000240",
+   "pid": "",
+   "pages": [],
+   "no": 240,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いで竜王が本事を見よと、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "本事",
+     "r": "てなみ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000241",
+   "pid": "",
+   "pages": [],
+   "no": 241,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "十間余りの尾を風車のごとくに",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "十間",
+     "r": "じっけん"
+    },
+    {
+     "a": "風車",
+     "r": "かざぐるま"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000242",
+   "pid": "",
+   "pages": [],
+   "no": 242,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "舞わして、苦桃太郎を七巻に巻裹め、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "七巻",
+     "r": "ななまき"
+    },
+    {
+     "a": "巻裹",
+     "r": "まきくる"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000243",
+   "pid": "",
+   "pages": [],
+   "no": 243,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "骨も微塵と固緊くれば、物々しやと苦桃太郎、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "固緊",
+     "r": "しめつ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000244",
+   "pid": "",
+   "pages": [],
+   "no": 244,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "惣身にうんと力を籠むれば、さしもの毒竜弗つと断れ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "惣身",
+     "r": "そうみ"
+    },
+    {
+     "a": "籠",
+     "r": "こ"
+    },
+    {
+     "a": "弗",
+     "r": "ふっ"
+    },
+    {
+     "a": "断",
+     "r": "き"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000245",
+   "pid": "",
+   "pages": [],
+   "no": 245,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "四段となって仆るれば、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "四段",
+     "r": "よだん"
+    },
+    {
+     "a": "仆",
+     "r": "たお"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000246",
+   "pid": "",
+   "pages": [],
+   "no": 246,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "魔力忽ち解けて",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "魔力",
+     "r": "まりき"
+    },
+    {
+     "a": "忽",
+     "r": "たちま"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000247",
+   "pid": "",
+   "pages": [],
+   "no": 247,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雲は吹消すごとくなくなれば、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "吹消",
+     "r": "ふきけ"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000248",
+   "pid": "",
+   "pages": [],
+   "no": 248,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何かは以て堪るべき、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "堪",
+     "r": "たま"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000249",
+   "pid": "",
+   "pages": [],
+   "no": 249,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "苦桃太郎迢々の虚空より",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "迢々",
+     "r": "はるか"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000250",
+   "pid": "",
+   "pages": [],
+   "no": 250,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "足場を失い、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "aozora-050354-000251",
+   "pid": "",
+   "pages": [],
+   "no": 251,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小石のごとく真一文字に舞下りて、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "舞下",
+     "r": "まいさが"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000252",
+   "pid": "",
+   "pages": [],
+   "no": 252,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "漫々たる大海へぼかん！",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "大海",
+     "r": "だいかい"
+    }
+   ]
+  },
+  {
+   "id": "aozora-050354-000253",
+   "pid": "",
+   "pages": [],
+   "no": 253,
+   "vol": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "「おにが嶋の文字にて」書かれた『鬼桃太郎』の序文（紅葉筆）",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  }
+ ]
+}
